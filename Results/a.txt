@@ -1,0 +1,10 @@
+2021-03-23 17:12:35,587-INFO-logger.py-python-日志信息:执行adb devices | findstr "device"
+2021-03-23 17:13:02,933-INFO-logger.py-python-日志信息:执行滑动操作
+2021-03-23 17:13:04,053-INFO-logger.py-python-日志信息:执行滑动操作
+2021-03-23 17:13:32,012-INFO-logger.py-python-日志信息:执行滑动操作
+2021-03-23 17:13:33,094-INFO-logger.py-python-日志信息:点击元素：蓝牙
+2021-03-23 17:13:33,510-INFO-logger.py-python-日志信息:点击元素：测试log
+2021-03-23 17:13:44,013-ERROR-logger.py-python-日志信息:点击元素：测试log失败!!!
+2021-03-23 17:13:44,016-ERROR-logger.py-python-日志信息:Message: An element could not be located on the page using the given search parameters.
+
+2021-03-23 17:13:44,016-INFO-logger.py-python-日志信息:执行adb shell settings get global bluetooth_on
